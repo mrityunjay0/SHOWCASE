@@ -81,6 +81,7 @@ h1{
     color:rgb(0, 0, 0);
     /* background-color: rgb(255, 255, 255); */
     justify-content: center;
+    gap: 30px;
 }
 button{
     border: 1px solid black;
@@ -93,6 +94,6 @@ button{
 button:hover{
     background-color: white;
     color: black;
-    transition: 0.5s;
+    transition: 1s;
     box-shadow: 5px 5px 10px 5px rgba(104, 99, 99, 0.589);
 }
