@@ -22,6 +22,10 @@ h1{
     justify-content: center;
     align-items: center;
     box-sizing: border-box;
+    font-size: 72px;
+    background: -webkit-linear-gradient(#000000, #ff3700);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
     font-size: 3rem;
     letter-spacing: 10px;
     margin: 20px 20px;
